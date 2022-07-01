@@ -2,7 +2,7 @@
     wellPanel(
       style="background:#0052A4;color:white"
       ,h4("重要なご連絡")
-      ,"2022年7月1日より、MMRの利用にはユーザー登録が必要となります。"
+      ,"2022年7月8日より、MMRの利用にはユーザー登録が必要となります。"
       ,"詳しくは、"
       ,tags$a(style="color:white;text-decoration: underline","こちらのMacromillのTeams「MMRお知らせ」の記事",target="_blank",href="https://teams.microsoft.com/l/message/19:4617e83335cc4df39f51a7ed84c8f6a9@thread.skype/1655882447557?tenantId=644e05ec-c931-445c-8b08-599939d29a31&groupId=05701d53-109a-4aab-9e54-0e56a208701a&parentMessageId=1655882447557&teamName=MMR%EF%BC%88MacromillR%EF%BC%89%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B&channelName=%E4%B8%80%E8%88%AC&createdTime=1655882447557")
       ,"をご確認ください"
