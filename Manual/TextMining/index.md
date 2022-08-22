@@ -9,7 +9,15 @@ export_on_save:
   html: true
 
 print_background: false
+
+id: "my-id"
+class: "my-class1 my-class2"
+
 ---
+
+@import "my-style.css"
+
+
 
 # テキスト解析
 
@@ -23,6 +31,8 @@ print_background: false
 - ネットワーク：単語の共起（同じ文章の中に出てくる回数）によってネットワーク図を作成する
 
 ## 品詞分解
+
+品詞分解
 
 ## 単語ランキング
 
