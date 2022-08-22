@@ -1,3 +1,16 @@
+---
+html:
+  embed_local_images: true
+  embed_svg: true
+  offline: false
+  toc: true
+
+export_on_save:
+  html: true
+
+print_background: false
+---
+
 # テキスト解析
 
 ## テキスト解析でできること
