@@ -4,20 +4,16 @@ html:
   embed_svg: true
   offline: false
   toc: true
+  toc_float: true
 
 export_on_save:
   html: true
 
 print_background: false
 
-id: "my-id"
-class: "my-class1 my-class2"
-
 ---
 
-@import "my-style.css"
-
-
+[toc]
 
 # テキスト解析
 
