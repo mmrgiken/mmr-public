@@ -1,6 +1,7 @@
 ---
-html:  
-  embed_local_images: true
+html:
+# 画像をHTMLファイル内に埋め込む
+  embed_local_images: false
   embed_svg: true
   offline: false
   toc: true
@@ -14,6 +15,7 @@ export_on_save:
 # テキスト解析でできること
 
 - 品詞分解：文章を、単語にバラバラに分解する。
+![](images/2022-08-24-18-14-40.png)
 - 単語ランキング：単語を出現回数によってランキングする。
 - 文章ランキング：文章を単語の出現回数によってランキングする
 - ワードクラウド：単語からワードクラウドを作成する
