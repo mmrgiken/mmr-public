@@ -7,7 +7,7 @@ html:
   offline: false
 # HTML出力時にサイドバーにtoc(目次)を生成する
 # これを有効にするには、ユーザー設定でmarkdown-preview-enhanced.enableScriptExecutionをtrueにする。
-  toc: false
+  toc: true
   
 # trueだと、md保存時にHTMLも生成される
 export_on_save:
